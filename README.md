@@ -18,6 +18,9 @@ The Babysitter app connects parents with babysitters, facilitating the managemen
 
 The Babysitter app is designed to help parents find and manage babysitters. It integrates with the Kinderkit app to pull babysitting events created by parents. The app uses Firebase for authentication and real-time data storage, and Google Maps for location services.
 
+#### The application is being integrated to the server FamilyCare360 : https://github.com/NetanelBCN/FamilyCare360
+
+
 ## Features
 
 - User Registration and Login for both Babysitters and Parents
